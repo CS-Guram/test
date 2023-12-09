@@ -36,6 +36,9 @@ git switch -c <branch-name> -> Create and switch to a new branch
 git push origin <branch-name> -> # Push <branch-name> to GitHub
 git merge <branch-name> -> Merge branches
 git branch -d <branch-name> -> Delete a branch
+git branch -> to see all branches
+git push --delete origin branch_2 -> psuh delete branch_2 to repository
+git diff -> This will display the differences in your working directory.
 
 **====================================================================================**
 
